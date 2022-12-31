@@ -1,0 +1,58 @@
+> Total number of files:
+  |__ ENC: 416
+  |__ EGC: 416
+  |__ MRG: 416
+
+> Total number of files per animal:
+  |__ 1C
+    |__ ENC: 32
+    |__ EGC: 32
+    |__ MRG: 32
+  |__ 2C
+    |__ ENC: 32
+    |__ EGC: 32
+    |__ MRG: 32
+  |__ 3C
+    |__ ENC: 32
+    |__ EGC: 32
+    |__ MRG: 32
+  |__ 4C
+    |__ ENC: 32
+    |__ EGC: 32
+    |__ MRG: 32
+  |__ 5C
+    |__ ENC: 32
+    |__ EGC: 32
+    |__ MRG: 32
+  |__ 6C
+    |__ ENC: 32
+    |__ EGC: 32
+    |__ MRG: 32
+  |__ 7C
+    |__ ENC: 32
+    |__ EGC: 32
+    |__ MRG: 32
+  |__ 22TW
+    |__ ENC: 32
+    |__ EGC: 32
+    |__ MRG: 32
+  |__ 23TW
+    |__ ENC: 32
+    |__ EGC: 32
+    |__ MRG: 32
+  |__ 24TW
+    |__ ENC: 32
+    |__ EGC: 32
+    |__ MRG: 32
+  |__ 26TW
+    |__ ENC: 32
+    |__ EGC: 32
+    |__ MRG: 32
+  |__ 28TW
+    |__ ENC: 32
+    |__ EGC: 32
+    |__ MRG: 32
+  |__ 30TW
+    |__ ENC: 32
+    |__ EGC: 32
+    |__ MRG: 32
